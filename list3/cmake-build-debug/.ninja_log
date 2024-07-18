@@ -1,0 +1,10 @@
+# ninja log v5
+8	2231	7325806820113186	CMakeFiles/lista3.dir/main.cpp.obj	59da4acabcbc9033
+2232	2535	7325806822983211	lista3.exe	1e6a0e68ecade28b
+14	577	7325822008683590	CMakeFiles/lista3.dir/point.cpp.obj	dbafd66be7c655de
+4	650	7325822009413613	CMakeFiles/lista3.dir/all.cpp.obj	f52c378011abd4c5
+4	595	7325825093919054	CMakeFiles/lista3.dir/point.cpp.obj	dbafd66be7c655de
+13	657	7325825094479069	CMakeFiles/lista3.dir/triangle.cpp.obj	a77101a456325a63
+9	687	7325825094679068	CMakeFiles/lista3.dir/segment.cpp.obj	7d44fe2d0d1d8f1f
+595	1192	7325825099989046	CMakeFiles/lista3.dir/other.cpp.obj	4c27de7e297cafac
+657	1197	7325825100039049	CMakeFiles/lista3.dir/main.cpp.obj	59da4acabcbc9033

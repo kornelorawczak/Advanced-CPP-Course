@@ -1,0 +1,3 @@
+D:/studia uwr/sem2/Kurs C++/lista6/cmake-build-debug/CMakeFiles/lista6.dir
+D:/studia uwr/sem2/Kurs C++/lista6/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/studia uwr/sem2/Kurs C++/lista6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
